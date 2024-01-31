@@ -17,4 +17,7 @@ npm install styled-components
 npm install eslind -D
 npm install @rockeseat/eslint-config
 npm install react-router-dom
+npm install react-hook-form
+npm install zod
+npm install @hookform/resolvers
 ```
